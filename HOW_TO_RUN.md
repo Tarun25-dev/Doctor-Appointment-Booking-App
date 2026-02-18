@@ -30,7 +30,7 @@ Open the `.env` file in the root folder and fill in your values:
 ```
 PORT = 8080
 NODE_MODE = development
-MONGO_URL = mongodb+srv://YOUR_USER:YOUR_PASSWORD@cluster0.xxxxx.mongodb.net/doctorapp
+MONGO_URL = paste here connection string from mongoDb cluster/doctorApp
 JWT_SECRET = anysecretrandomstring123456
 ```
 
