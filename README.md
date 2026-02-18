@@ -468,9 +468,9 @@ db.users.updateOne({ email: "your@email.com" }, { $set: { isAdmin: true } })
 
 ## 👨‍💻 Author
 
-**Your Name**
-B.Tech Computer Science & Engineering
-Roll No: XXXXXXXX
+KODIGANTI THARUN KUMAR
+B.Tech Computer Science & Engineering (Data Science)
+Roll No:   22X51A3225
 Academic Year: 2025–2026
 
 > *This project was developed as part of the academic curriculum to demonstrate full-stack web development skills using the MERN stack.*
