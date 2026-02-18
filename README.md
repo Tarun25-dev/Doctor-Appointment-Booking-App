@@ -6,7 +6,7 @@ A full-stack web application built using the **MERN Stack** (MongoDB, Express.js
 
 ## 📌 Table of Contents
 
-- [Project Overview](##project-overview)
+- [Project Overview](#project-overview)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [System Architecture](#system-architecture)
