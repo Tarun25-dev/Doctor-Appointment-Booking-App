@@ -15,9 +15,8 @@
 4. Go to: Security → Database Access → Add user (username + password)
 5. Go to: Security → Network Access → Add IP Address → Allow from anywhere (0.0.0.0/0)
 6. Go to: Deployment → Database → Connect → Drivers
-7. Copy the connection string, it looks like:
-   mongodb+srv://youruser:yourpassword@cluster0.abc12.mongodb.net/
-
+7. Copy the connection string,
+   
 ### Option B: Local MongoDB
 - Install from https://www.mongodb.com/try/download/community
 - URL = mongodb://localhost:27017
