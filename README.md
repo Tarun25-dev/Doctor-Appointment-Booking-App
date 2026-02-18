@@ -9,19 +9,18 @@ A full-stack web application built using the **MERN Stack** (MongoDB, Express.js
 
 ## 📌 Table of Contents
 
-- [Project Overview](#project-overview)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [System Architecture](#system-architecture)
-- [Project Structure](#project-structure)
-- [Installation & Setup](#installation--setup)
-- [Environment Variables](#environment-variables)
-- [Usage Guide](#usage-guide)
-- [API Endpoints](#api-endpoints)
-- [Screenshots](#screenshots)
-- [Database Schema](#database-schema)
-- [Future Enhancements](#future-enhancements)
-- [Author](#author)
+- [Project Overview](#-project-overview)
+- [Features](#-features)
+- [Tech Stack](#️-tech-stack)
+- [System Architecture](#️-system-architecture)
+- [Project Structure](#-project-structure)
+- [Installation & Setup](#️-installation--setup)
+- [Environment Variables](#-environment-variables)
+- [Usage Guide](#-usage-guide)
+- [API Endpoints](#-api-endpoints)
+- [Database Schema](#️-database-schema)
+- [Future Enhancements](#-future-enhancements)
+- [Author](#️-author)
 
 ---
 
